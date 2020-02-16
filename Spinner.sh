@@ -35,9 +35,11 @@ endSpin() {
 #spin and endSpin
 #########################################################################
 example=0
+echo "Spinner Started"
 while [[ ${example} -ne 100 ]]; do
     spin
     example=$((example + 1))
     sleep 0.3s
 done
 endSpin
+echo "spinning Done"
