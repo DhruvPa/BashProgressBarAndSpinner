@@ -11,4 +11,4 @@ Example implementations of progress bar and spinner
     
 #### **Output Demo**:
 
-![ProgressBar intial ](/ReadmeImages/InitialProgress.png)
+![ProgressBar intial ](https://github.com/iLodeStar/BashProgressBarAndSpinner/blob/master/ReadmeImages/InitialProgress.PNG)
