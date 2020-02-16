@@ -19,7 +19,7 @@ Example implementations of progress bar and spinner
 
 ### **B**.> **Spinner**: 
 
-> 1. include or edit *Spinnerr.sh* file.
+> 1. include or edit *Spinner.sh* file.
 > 2. call *spin* function in a loop where you wish to display loader.
 > 3. call *endSpin* function after the loop execution ends or wherever the loading ends.
     
